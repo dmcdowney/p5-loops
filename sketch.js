@@ -16,7 +16,7 @@ function draw(){
     
     for(var x = 0; x < 650; x = x + 50){
         fill(191, 66, 244);
-        ellipse(x, 155, 25, 25);
+        ellipse(x, 100, 25, 25);
     }
     
 }
